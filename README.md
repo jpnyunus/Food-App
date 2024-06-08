@@ -1,8 +1,12 @@
-# React + Vite
+# Food Menu App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Description
 
-Currently, two official plugins are available:
+Food Menu App is a React application that displays a list of top-rated menu items. Users can filter the items by category (e.g., burgers, pizza) and by price range. The price filter allows viewing items of the selected price range and below.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Display a list of food items with images, names, and prices.
+- Filter food items by category.
+- Filter food items by price range, including items of the selected price range and below.
+- Responsive Design
