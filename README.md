@@ -10,3 +10,5 @@ Food Menu App is a React application that displays a list of top-rated menu item
 - Filter food items by category.
 - Filter food items by price range, including items of the selected price range and below.
 - Responsive Design
+
+[Live](https://food-app-nine-tan.vercel.app/)
